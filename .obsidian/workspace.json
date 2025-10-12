@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cocktail Recipe/Pina Colada 椰林飘香.md",
+                "file": "Cocktail Recipe/Penicillin 盘尼西林.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pina Colada 椰林飘香"
+              "title": "Penicillin 盘尼西林"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#长饮",
+                "query": "tag:#调和法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cocktail Recipe/Pina Colada 椰林飘香.md",
+                "file": "Cocktail Recipe/Penicillin 盘尼西林.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pina Colada 椰林飘香 的反向链接列表"
+              "title": "Penicillin 盘尼西林 的反向链接列表"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cocktail Recipe/Pina Colada 椰林飘香.md",
+                "file": "Cocktail Recipe/Penicillin 盘尼西林.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Pina Colada 椰林飘香 的出链列表"
+              "title": "Penicillin 盘尼西林 的出链列表"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cocktail Recipe/Pina Colada 椰林飘香.md",
+                "file": "Cocktail Recipe/Penicillin 盘尼西林.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pina Colada 椰林飘香 的大纲"
+              "title": "Penicillin 盘尼西林 的大纲"
             }
           },
           {
@@ -166,25 +167,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "bases:创建新数据库": true,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c68ef66c4cffe118",
+  "active": "12ddfcebeb128072",
   "lastOpenFiles": [
+    "Cocktail Recipe/TODO Pina Colada 椰林飘香.md",
+    "Cocktail Recipe/Penicillin 盘尼西林.md",
     "未命名.canvas",
-    "Cocktail Recipe/Pina Colada 椰林飘香.md",
     "Template command",
     "Cocktail Recipe/Cocktail Recipe Main Page.md",
     "this is a test.md",
