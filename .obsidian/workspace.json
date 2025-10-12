@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 232.5
   },
   "right": {
     "id": "c985eafa98e69e77",
@@ -181,7 +181,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "746318006f463f77",
+  "active": "c68ef66c4cffe118",
   "lastOpenFiles": [
     "未命名.canvas",
     "Cocktail Recipe/Pina Colada 椰林飘香.md",

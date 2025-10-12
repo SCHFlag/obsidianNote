@@ -20,3 +20,6 @@
 	<text x="64%" y="45" font-family="Hiragino Sans GB" font-size="14" fill="black">朗姆酒</text>
 	<text x="64%" y="65" font-family="Hiragino Sans GB" font-size="14" fill="black">60ml</text>
 </svg>
+
+## 方法
+
