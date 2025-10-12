@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test is a test too.md",
+                "file": "Cocktail Recipe/Cocktail Recipe Main Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test is a test too"
+              "title": "Cocktail Recipe Main Page"
             }
           }
         ]
@@ -182,7 +182,10 @@
   },
   "active": "aabed19cbf518154",
   "lastOpenFiles": [
+    "Cocktail Recipe/Cocktail Recipe Main Page.md",
     "this is a test.md",
+    "Cocktail Recipe",
+    "未命名",
     "test is a test too.md",
     "obsidianNote.lnk"
   ]
