@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87003d01f9368096",
+        "id": "e48b22d67efce671",
         "type": "tabs",
         "children": [
           {
-            "id": "aabed19cbf518154",
+            "id": "c68ef66c4cffe118",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#菠萝汁",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 458.5
   },
   "right": {
     "id": "c985eafa98e69e77",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +181,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "383445ab708d8fc0",
+  "active": "746318006f463f77",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Cocktail Recipe/Pina Colada 椰林飘香.md",
     "Template command",
     "Cocktail Recipe/Cocktail Recipe Main Page.md",
-    "Cocktail Recipe/Pina Colada 椰林飘香.md",
     "this is a test.md",
     "Cocktail Recipe",
     "test is a test too.md",
