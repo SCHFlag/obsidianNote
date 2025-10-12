@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#菠萝汁",
+                "query": "tag:#长饮",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 553.5
   },
   "right": {
     "id": "c985eafa98e69e77",

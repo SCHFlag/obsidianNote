@@ -60,5 +60,4 @@ function IngredientRatio (...list)
 
 module.exports = {
     IR : IngredientRatio
-
-} 
+}
