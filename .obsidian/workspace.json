@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cocktail Recipe/Cocktail Recipe Main Page.md",
+                "file": "Cocktail Recipe/Pina Colada 椰林飘香.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cocktail Recipe Main Page"
+              "title": "Pina Colada 椰林飘香"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "this is a test.md",
+                "file": "Cocktail Recipe/Pina Colada 椰林飘香.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "this is a test 的反向链接列表"
+              "title": "Pina Colada 椰林飘香 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "this is a test.md",
+                "file": "Cocktail Recipe/Pina Colada 椰林飘香.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "this is a test 的出链列表"
+              "title": "Pina Colada 椰林飘香 的出链列表"
             }
           },
           {
@@ -128,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "this is a test.md",
+                "file": "Cocktail Recipe/Pina Colada 椰林飘香.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "this is a test 的大纲"
+              "title": "Pina Colada 椰林飘香 的大纲"
             }
           },
           {
@@ -177,15 +177,17 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "aabed19cbf518154",
+  "active": "383445ab708d8fc0",
   "lastOpenFiles": [
+    "Template command",
     "Cocktail Recipe/Cocktail Recipe Main Page.md",
+    "Cocktail Recipe/Pina Colada 椰林飘香.md",
     "this is a test.md",
     "Cocktail Recipe",
-    "未命名",
     "test is a test too.md",
     "obsidianNote.lnk"
   ]
