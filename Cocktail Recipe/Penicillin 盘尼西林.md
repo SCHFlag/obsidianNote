@@ -1,21 +1,18 @@
 # Penicillin
 **盘尼西林**
 
-> 没错，它真的一股盘尼西林的味道
+> 没错，它真的一股青霉素的味道
 ---
 
 ## 分类
-
 #酸甜 
 #短饮 
 #餐后
 
 ## 材料
-
 #威士忌/苏格兰调和威士忌 #威士忌/泥煤威士忌
 #柠檬汁 #蜂蜜
 #生姜片 用于萃取及装饰
-
 
 <svg width="100%" height="100">
 	<rect x="0%" y="0" rx="5" ry="5" width="60%" height="100" fill="crimson"/>
@@ -28,8 +25,9 @@
 	<text x="88%" y="45" font-family="Hiragino Sans GB" font-size="12" fill="black">泥煤威士忌</text>
 	<text x="88%" y="65" font-family="Hiragino Sans GB" font-size="14" fill="black">10ml</text>
 </svg>
-- 生姜约3片
-- 蜂蜜约1吧勺
+>- 生姜约3片
+>- 蜂蜜约1吧勺
+
 ## 方式
 
 #摇和法
